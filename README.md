@@ -2,14 +2,14 @@
 
 ## What this project does
 
-This project diagnoses how well a product delivers on user Jobs-to-Be-Done (JTBD) across the full customer journey.
+This project evaluates how effectively a product enables users to complete their Jobs-to-Be-Done (JTBD) across the full customer journey.
 
 Instead of analyzing users statically, it identifies:
 - what users are trying to achieve (JTBD)
 - where the product fails across the journey
 - which failures matter most commercially
 
-The goal is to connect customer insight directly to product and business decisions.
+The objective is to connect customer insight directly to product and commercial decisions.
 
 ## Core idea
 
@@ -43,20 +43,13 @@ A JTBD describes what a user is trying to achieve in a specific situation. It is
 
 ## Core JTBD identified
 
-### 1. Turn conversations into structured, usable output
-Users want raw conversations transformed into clear summaries, action items, and insights.
+User needs are defined as outcome-driven jobs, not features.
 
-### 2. Ensure important information is not lost
-Users need confidence that key details, decisions, and commitments are captured accurately.
-
-### 3. Reduce effort in documenting and recalling conversations
-Users want to avoid manual note-taking and reduce cognitive load.
-
-### 4. Fit seamlessly into existing workflows
-Users expect outputs to integrate into how they already work (documents, follow-ups, sharing).
-
-### 5. Evaluate whether the product is worth continued use
-Some users are still deciding if the product delivers enough value to justify ongoing use.
+1. **Turn conversations into structured, usable output**  
+2. **Ensure critical information is captured accurately**  
+3. **Reduce effort in documenting and recalling conversations**  
+4. **Fit seamlessly into existing workflows**  
+5. **Validate whether the product delivers enough value to continue using**  
 
 ---
 
@@ -67,12 +60,12 @@ Some users are still deciding if the product delivers enough value to justify on
 Synthesize conversations into connected intelligence to think and execute faster.  
 
 **Key Expectation:**  
-- Acts as an intelligence layer (not just recording)  
+- Acts as an intelligence layer 
 - Adapts and improves with usage  
 - Supports multi-modal workflows  
 
 **Risk if unmet:**  
-Users build their own system or switch to more flexible tools  
+Users build their own system or switch tools  
 
 ---
 
@@ -81,9 +74,9 @@ Users build their own system or switch to more flexible tools
 Capture and convert meetings into clear decisions and actions without missing anything.  
 
 **Key Expectation:**  
-- Accurate capture of discussions  
-- Clear summaries with decisions and actions  
-- Output ready for immediate sharing  
+- Accurate capture  
+- Clear, structured summaries  
+- Share-ready output  
 
 **Business Importance:**  
 Primary driver of retention and monetization  
@@ -96,11 +89,12 @@ Record and retrieve information quickly with minimal effort.
 
 **Key Expectation:**  
 - Reliability over intelligence  
-- Minimal setup and learning  
-- Simple, consistent output  
+- Minimal setup  
+- Consistent output  
+
 
 **Risk if unmet:**  
-Users drop off due to perceived complexity  
+Drop-off due to complexity  
 
 ---
 
@@ -149,8 +143,9 @@ This framework enables a structured approach:
 
 ## Conclusion
 
-This JTBD-based segmentation provides a **decision-making framework**, not just a descriptive model. It enables:
+This approach provides a practical decision-making framework to:
 
-- Clear prioritization of product investments  
-- Identification of high-value user segments  
-- Direct linkage between user needs and measurable outcomes  
+- Prioritize product investments based on real user impact  
+- Focus on high-value segments that drive retention and revenue  
+- Link user needs directly to measurable outcomes  
+

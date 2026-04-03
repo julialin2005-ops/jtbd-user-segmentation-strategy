@@ -29,9 +29,7 @@ This project analyzes product performance across the full customer journey.
 
 ## Key principle
 
-A product does not fail as a whole.
-
-It fails at specific stages of the journey, where it does not successfully enable the user to complete their job.
+A product does not fail as a whole.It fails at specific stages of the journey, where it does not successfully enable the user to complete their job.
 
 # Jobs-to-Be-Done (JTBD) Definition
 
@@ -39,14 +37,7 @@ This project defines user needs as Jobs-to-Be-Done (JTBD), rather than features 
 
 ## What is a JTBD?
 
-A JTBD describes what a user is trying to achieve in a specific situation.
-
-It is not:
-- a feature request
-- a product opinion
-- a complaint
-
-It is the underlying goal the user is hiring the product to accomplish.
+A JTBD describes what a user is trying to achieve in a specific situation. It is the underlying goal the user is hiring the product to accomplish.
 
 ---
 
@@ -68,14 +59,6 @@ Users expect outputs to integrate into how they already work (documents, follow-
 Some users are still deciding if the product delivers enough value to justify ongoing use.
 
 ---
-
-## Key principle
-
-Users do not care about features.
-
-They care about whether the job gets done.
-
-If the job fails at any stage of the journey, the experience fails.
 
 ## JTBD-Based User Segments
 
@@ -147,25 +130,6 @@ Prove the product’s value quickly before committing to use it.
 **Risk if unmet:**  
 Low conversion despite strong product capability  
 
-## Expectation Framework
-
-Across all segments, user expectations converge into five non-negotiable pillars:
-
-### 1. Reliable Capture  
-Capture information without loss, distortion, or gaps — regardless of environment  
-
-### 2. Usable Output  
-Produce structured outputs that require no manual cleanup  
-
-### 3. Cognitive Offload  
-Reduce effort during and after conversations  
-
-### 4. Workflow Fit  
-Integrate seamlessly into existing workflows without extra steps  
-
-### 5. Trust & Reliability  
-Eliminate the need for backup tools or verification  
-
 ---
 
 ## From JTBD to Product Decisions
@@ -185,9 +149,7 @@ This framework enables a structured approach:
 
 ## Conclusion
 
-This JTBD-based segmentation provides a **decision-making framework**, not just a descriptive model.
-
-It enables:
+This JTBD-based segmentation provides a **decision-making framework**, not just a descriptive model. It enables:
 
 - Clear prioritization of product investments  
 - Identification of high-value user segments  
